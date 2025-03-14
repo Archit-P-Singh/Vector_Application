@@ -47,6 +47,6 @@ Contributions to this project are welcome. If you would like to contribute, plea
 This project is open-source and available under the **MIT License**. See the [LICENSE](github.com/Archit-P-Singh/Vector_Application/main/LICENSE) file for more details.
 
 ## Acknowledgments
-+Java: The core programming language used for the development of this application.
-+JavaFX: The framework used to build the graphical user interface (GUI).
-+Thanks to all contributors and users for supporting the project.
+- Java: The core programming language used for the development of this application.
+- JavaFX: The framework used to build the graphical user interface (GUI).
+- Thanks to all contributors and users for supporting the project.
