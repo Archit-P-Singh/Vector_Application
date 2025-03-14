@@ -44,7 +44,7 @@ Contributions to this project are welcome. If you would like to contribute, plea
 4. Open a pull request with a description of your changes.
 
 ## License
-This project is open-source and available under the **MIT License**. See the [LICENSE](main/LICENSE) file for more details.
+This project is open-source and available under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 - Java: The core programming language used for the development of this application.
